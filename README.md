@@ -5,11 +5,12 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lin.zaw.9638/) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fab3c2ab-9b2c-428a-88ea-3dcd71404374/deploy-status)](https://tunlinzaw.netlify.app)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lin-zaw112&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lin-zaw112&theme=vision-friendly-dark&hide_border=true&include_all_commits=fa[![Netlify Status](https://api.netlify.com/api/v1/badges/fab3c2ab-9b2c-428a-88ea-3dcd71404374/deploy-status)](https://app.netlify.com/sites/tunlinzaw/deploys)lse&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lin-zaw112&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lin-zaw112&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
