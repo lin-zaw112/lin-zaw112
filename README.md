@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lin.zaw.9638/) 
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=tunlinzaw)](https://tunlinzaw.vercel.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fab3c2ab-9b2c-428a-88ea-3dcd71404374/deploy-status)](https://tunlinzaw.netlify.app)
 
 # 💻 Tech Stack:
