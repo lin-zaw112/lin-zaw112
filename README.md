@@ -1,10 +1,10 @@
 
 <a href="https://app.daily.dev/linz"><img src="https://api.daily.dev/devcards/b01aa9909500425aac4ecd8c8e36c8d1.png?r=bj2" width="400" alt="Lin Zaw's Dev Card" align="right"/></a>
 # 💫 About Me:
-👋 Hi, I’m Tun Lin Zaw<br>🔭 I’m currently working on JavaScript<br>🌱 I’m currently learning React.js<br>👀 I’m interested in Node.js
+👋 Hi, I’m Tun Lin Zaw<br>🔭 I’m currently working on JavaScript<br>🌱 I’m currently learning php laravel for fun in my free time.<br>👀 I’m interested in Web technology.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lin.zaw.9638/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/linz80461) 
 [![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=tunlinzaw)](https://tunlinzaw.vercel.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fab3c2ab-9b2c-428a-88ea-3dcd71404374/deploy-status)](https://tunlinzaw.netlify.app)
 
